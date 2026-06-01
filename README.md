@@ -7,7 +7,8 @@ Primeiramente, comecei lendo o material sobre programação concorrente da aula 
 Após ler o material, fui fazer o primeiro exercicio. 
 Eu reutilizei o código da classe de Rabbit e apenas mudei os nomes para Horse e reajustei a escrita. 
 - Código da classe nova:
-  ```hs
+
+```hs
 class Horse extends Thread {
 	private String name;
 
@@ -32,6 +33,7 @@ class Horse extends Thread {
 				Thread.currentThread().interrupt();
 			}
 		}
+```
 		System.out.println(name + " horse finished the race!");
 	}
 }
