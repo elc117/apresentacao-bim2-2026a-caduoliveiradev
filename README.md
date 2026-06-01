@@ -33,7 +33,6 @@ class Horse extends Thread {
 				Thread.currentThread().interrupt();
 			}
 		}
-```
 		System.out.println(name + " horse finished the race!");
 	}
 }
