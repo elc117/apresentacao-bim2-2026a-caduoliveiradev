@@ -38,7 +38,7 @@ class Horse extends Thread {
 }
 ```
 Esse exercicio 1 foi bem básico e funcionou de primeira, o unico uso de IA foi para adicionar um delay para a execução dos prints para que fique melhor no gif.
-<img width="1906" height="982" alt="Animação" src="https://github.com/user-attachments/assets/921fba06-67be-4dc6-abc9-1c4a499dde60" />
+<img width="953" height="491" alt="Animação" src="https://github.com/user-attachments/assets/921fba06-67be-4dc6-abc9-1c4a499dde60" />
 
 # Parte 2
 ## Código open-source concorrente.
